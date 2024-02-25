@@ -28,6 +28,7 @@ Here are some technologies I've learned over the years with more to come...
  [![React][React.js]][React-url]
  [![Bootstrap][Bootstrap.com]][Bootstrap-url]
  [![JavaScript][JavaScript]][JavaScript-url]
+ [![Python][Python]][Python-url]
  [![css3][css3]][css3-url]
  [![Node.js][Node.js]][Node.js-url]
  [![Express.js][Express.js]][Express.js-url]
@@ -55,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jacoblarranaga
 [war-shield]: https://img.shields.io/badge/war-Browser%20Game-brightgreen?style=for-the-badge&logo=Netlify
-[war-url]: https://linkedin.com/in/jacoblarranaga
+[war-url]: https://warcards2023.netlify.app/
 [nasa-shield]: https://img.shields.io/badge/NASA-Browser%20App-brightgreen?style=for-the-badge&logo=NASA
 [nasa-url]: https://nasa-app-ga.fly.dev/
 [fitness-shield]: https://img.shields.io/badge/Fitness%20App-Browser%20App-brightgreen?style=for-the-badge&logo=React
@@ -89,6 +90,9 @@ You can click the Preview link to take a look at your changes.
 [django-url]: https://www.mongodb.com/
 [resume]:https://img.shields.io/badge/Resume-black?style=for-the-badge&labelColor=grey
 [resume-url]: https://docs.google.com/document/d/1p7_PVARzUqJlqGN0KzY2QtVwWZGsuCVtAzC_MXFqDjM/edit?usp=sharing
+[Python]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python
+[Python-url]: https://www.python.org/
+
 
 
 
