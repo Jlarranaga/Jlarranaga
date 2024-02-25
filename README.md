@@ -14,7 +14,7 @@
  
 ## My Projects
 
-Here you can find some of the projects I've created using many different technologies: 
+Here you can find some of the projects I've created using different technologies: 
 
 [![war][war-shield]][war-url] </br>
 [![nasa][nasa-shield]][nasa-url] </br>
