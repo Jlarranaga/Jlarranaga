@@ -1,6 +1,7 @@
 # Hi, I'm Jacob! 
 
-[![image][top-image]]
+![image](https://github.com/Jlarranaga/Jlarranaga/assets/149622991/e6a70177-ccd9-4d01-936a-c0b21991c762)
+
 
  I am a software engineer with a background in management and real
  estate. I love a good challenge while helping improve society with new
