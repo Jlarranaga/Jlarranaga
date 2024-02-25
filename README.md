@@ -22,19 +22,27 @@ Here you can find some of the projects I've created using many different technol
 
 ## Technologies 
 
+Here are some technologies I've learned over the years with more to come...
+
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![css3][css3]][css3-url]
+* [![Node.js][Node.js]][Node.js-url]
+* [![Express.js][Express.js]][Express.js-url]
+* [![django][django]][django-url]
+* [![MongoDB][MongoDB]][MongoDB-url]
+* [![Java][Java]][Java-url]
+* [![C++][C++]][C++-url]
+* [![Swift][Swift]][Swift-url]
+* [![C#][C#]][C#-url]
 
-
-[![WAR]][linkedin-url]
+## Contact Me!
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Resume][Resume]][Resume-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jacoblarranaga
 
 
 
@@ -44,6 +52,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/jacoblarranaga
 [war-shield]: https://img.shields.io/badge/war-Browser%20Game-brightgreen?style=for-the-badge&logo=Netlify
 [war-url]: https://linkedin.com/in/jacoblarranaga
 [nasa-shield]: https://img.shields.io/badge/NASA-Browser%20App-brightgreen?style=for-the-badge&logo=NASA
@@ -61,6 +71,35 @@ You can click the Preview link to take a look at your changes.
 [css3]: https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3
 [css3-url]: https://www.w3.org/Style/CSS/Overview.en.html
 [top-image]: ![image](https://github.com/Jlarranaga/Jlarranaga/assets/149622991/4d15a8a9-b20d-42b3-ad7f-51f27f51320f)
+[Node.js]: https://img.shields.io/badge/NODE.JS-grey?style=for-the-badge&logo=Node.JS
+[Node.js-url]: https://nodejs.org/en
+[Express.js]: https://img.shields.io/badge/Express.JS-grey?style=for-the-badge&logo=JavaScript
+[Express.js-url]: https://expressjs.com/
+[MongoDB]: https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=MongoDB
+[MongoDB-url]: https://www.mongodb.com/
+[Java]: https://img.shields.io/badge/Java-black?style=for-the-badge
+[Java-url]: https://www.java.com/en/
+[C++]: https://img.shields.io/badge/C%2B%2B-darkblue?style=for-the-badge&logo=C%2B%2B
+[C++-url]: https://cplusplus.com/
+[Swift]: https://img.shields.io/badge/Swift-darkorange?style=for-the-badge&logo=Swift
+[Swift-url]: https://www.swift.org/
+[C#]: https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23
+[C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[django]: https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django
+[django-url]: https://www.mongodb.com/
+[resume]:https://img.shields.io/badge/Resume-black?style=for-the-badge&labelColor=grey
+[resume-url]: https://docs.google.com/document/d/1p7_PVARzUqJlqGN0KzY2QtVwWZGsuCVtAzC_MXFqDjM/edit?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
 
 
 
