@@ -24,19 +24,19 @@ Here you can find some of the projects I've created using many different technol
 
 Here are some technologies I've learned over the years with more to come...
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![css3][css3]][css3-url]
-* [![Node.js][Node.js]][Node.js-url]
-* [![Express.js][Express.js]][Express.js-url]
-* [![django][django]][django-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
-* [![Java][Java]][Java-url]
-* [![C++][C++]][C++-url]
-* [![Swift][Swift]][Swift-url]
-* [![C#][C#]][C#-url]
+ [![Next][Next.js]][Next-url]
+ [![React][React.js]][React-url]
+ [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+ [![JavaScript][JavaScript]][JavaScript-url]
+ [![css3][css3]][css3-url]
+ [![Node.js][Node.js]][Node.js-url]
+ [![Express.js][Express.js]][Express.js-url]
+ [![django][django]][django-url]
+ [![MongoDB][MongoDB]][MongoDB-url]
+ [![Java][Java]][Java-url]
+ [![C++][C++]][C++-url]
+ [![Swift][Swift]][Swift-url]
+ [![C#][C#]][C#-url]
 
 ## Contact Me!
 
