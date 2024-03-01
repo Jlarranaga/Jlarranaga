@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 [django]: https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django
 [django-url]: https://www.mongodb.com/
 [resume]:https://img.shields.io/badge/Resume-black?style=for-the-badge&labelColor=grey
-[resume-url]: https://docs.google.com/document/d/1p7_PVARzUqJlqGN0KzY2QtVwWZGsuCVtAzC_MXFqDjM/edit?usp=sharing
+[resume-url]: https://docs.google.com/document/d/1b8moE_3oSOYIQpklFlalrw-3Tp5IE6FyWDvVclmTusw/edit?usp=sharing
 [Python]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python
 [Python-url]: https://www.python.org/
 
