@@ -3,13 +3,7 @@
 ![image](https://github.com/Jlarranaga/Jlarranaga/assets/149622991/e6a70177-ccd9-4d01-936a-c0b21991c762)
 
 
- I am a software engineer with a background in management and real
- estate. I love a good challenge while helping improve society with new
- innovative technologies. I am able to listen intently, understand and
- come up with solutions that will better the team as a whole. I want to
- be able to bring my problem solving, listening, compassion and
- understanding skills to the table and help grow a solution making life
- easier and more enjoyable.
+I am a dynamic software engineer with a unique blend of expertise in management and real estate. Passionate about tackling challenges, I am dedicated to leveraging innovative technologies to contribute to the betterment of society. My strength lies in active listening, deep understanding, and crafting effective solutions that enhance team dynamics. I am eager to bring my problem-solving abilities, attentive listening, and a compassionate understanding of user needs to the table, aiming to contribute to the development of solutions that simplify and enhance people's lives.I am a dynamic software engineer with a unique blend of expertise in management and real estate. Passionate about tackling challenges, I am dedicated to leveraging innovative technologies to contribute to the betterment of society. My strength lies in active listening, deep understanding, and crafting effective solutions that enhance team dynamics. I am eager to bring my problem-solving abilities, attentive listening, and a compassionate understanding of user needs to the table, aiming to contribute to the development of solutions that simplify and enhance people's lives.
 
  
 ## My Projects
